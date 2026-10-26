@@ -3,7 +3,7 @@
 A small interactive python game, which uses the turtle module for graphics. The idea is similar the flood style games, in which the final goal is to have a monochromatic square, with the least amount of clicks possible.
 
 ![Start of the game](perolatie_1.png)
-![Winning screen](images/percolatie_2.png)
+![Winning screen](percolatie_2.png)
 
 
 ## Instructions
